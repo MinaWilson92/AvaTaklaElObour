@@ -1,0 +1,50 @@
+[
+  {
+    "id": "first",
+    "title": "First Hour (Prime)",
+    "description": "Morning Prayer - 6 AM",
+    "icon": "e42e"
+  },
+  {
+    "id": "third",
+    "title": "Third Hour (Terce)",
+    "description": "Descent of the Holy Spirit - 9 AM",
+    "icon": "e425"
+  },
+  {
+    "id": "sixth",
+    "title": "Sixth Hour (Sext)",
+    "description": "Crucifixion of Christ - 12 PM",
+    "icon": "e8ae"
+  },
+  {
+    "id": "ninth",
+    "title": "Ninth Hour (None)",
+    "description": "Death of Christ - 3 PM",
+    "icon": "e8af"
+  },
+  {
+    "id": "vespers",
+    "title": "Eleventh Hour (Vespers)",
+    "description": "Taking Down from the Cross - 5 PM",
+    "icon": "e40a"
+  },
+  {
+    "id": "compline",
+    "title": "Twelfth Hour (Compline)",
+    "description": "Burial of Christ - 6 PM",
+    "icon": "e304"
+  },
+  {
+    "id": "midnight",
+    "title": "Midnight Prayer",
+    "description": "Second Coming of Christ",
+    "icon": "e3a5"
+  },
+  {
+    "id": "veil",
+    "title": "Veil Prayer",
+    "description": "For monks and priests only",
+    "icon": "e3a9"
+  }
+]
